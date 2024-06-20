@@ -14,10 +14,10 @@ This project contains two C++ programs for playing the classic Tic Tac Toe game:
 
 ## Description
 
-### Multiplayer Tic Tac Toe
+### Multiplayer_Tic_Tac_Toe
 This program allows two players to play Tic Tac Toe against each other on a grid of customizable size. The players take turns to place their symbols ('X' or 'O') on the grid, and the first player to align their symbols in a row, column, or diagonal wins the game.
 
-### Tic Tac Toe vs Computer
+### Tic_Tac_Toe_vs_Computer
 This program allows a single player to play Tic Tac Toe against the computer. The computer uses the Minimax algorithm to choose its moves, making the game challenging and fun.
 
 ## Requirements
