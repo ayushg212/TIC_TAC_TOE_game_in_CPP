@@ -37,7 +37,6 @@ This program allows a single player to play Tic Tac Toe against the computer. Th
 Game Screen | Game Screen
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/ayushg212/TIC_TAC_TOE_game_in_CPP/blob/main/TIC%20TAC%20TOE/Screenshots/Screenshot%202022-09-17%20031014.png) |  ![alt text](https://github.com/ayushg212/TIC_TAC_TOE_game_in_CPP/blob/main/TIC%20TAC%20TOE/Screenshots/Screenshot%202022-09-17%20031205.png)
-
     
 ### Tic Tac Toe vs Computer
 - **File:** `TIC_TAC_TOE_vs_COMPUTER/tic_tac_toe.cpp`
