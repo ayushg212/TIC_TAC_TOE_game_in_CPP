@@ -33,14 +33,19 @@ This program allows a single player to play Tic Tac Toe against the computer. Th
 ### Multiplayer Tic Tac Toe
 - **File:** `TIC TAC TOE/tic_tac_toe.cpp`
 - **Description:** This file contains the code for the multiplayer Tic Tac Toe game. It includes functions for initializing the grid, taking player inputs, checking for winning conditions, and displaying the grid.
-  
-Loading Screen | Game Screen
+
+Game Screen | Game Screen
 :-------------------------:|:-------------------------:
-![alt text](https://github.com/ayushg212/TIC_TAC_TOE_game_in_CPP/assets/57093373/91294172-e4bc-40cb-b86c-d699d85152d7) |  !![alt text](https://github.com/ayushg212/TIC_TAC_TOE_game_in_CPP/assets/57093373/5b14a2eb-7557-4391-bc25-f36290af2f20)
+![alt text](https://github.com/ayushg212/TIC_TAC_TOE_game_in_CPP/blob/main/TIC%20TAC%20TOE/Screenshots/Screenshot%202022-09-17%20031014.png) |  !![alt text](https://github.com/ayushg212/TIC_TAC_TOE_game_in_CPP/blob/main/TIC%20TAC%20TOE/Screenshots/Screenshot%202022-09-17%20031205.png)
+
     
 ### Tic Tac Toe vs Computer
 - **File:** `TIC_TAC_TOE_vs_COMPUTER/tic_tac_toe.cpp`
 - **Description:** This file contains the code for the Tic Tac Toe game where the player competes against the computer. It includes functions for the computer's strategy using the Minimax algorithm, checking for winning conditions, and taking player inputs.
+
+Loading Screen | Game Screen
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/ayushg212/TIC_TAC_TOE_game_in_CPP/assets/57093373/91294172-e4bc-40cb-b86c-d699d85152d7) |  !![alt text](https://github.com/ayushg212/TIC_TAC_TOE_game_in_CPP/assets/57093373/5b14a2eb-7557-4391-bc25-f36290af2f20)
 
 #### Minimax Algorithm
 The computer uses the Minimax algorithm to determine the best possible move. The core part of the Minimax algorithm is implemented in the following function:
