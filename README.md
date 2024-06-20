@@ -8,7 +8,6 @@ This project contains two C++ programs for playing the classic Tic Tac Toe game:
 - [Description](#description)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Code Overview](#code-overview)
   - [Multiplayer Tic Tac Toe](#multiplayer-tic-tac-toe)
   - [Tic Tac Toe vs Computer](#tic-tac-toe-vs-computer)
@@ -28,36 +27,19 @@ This program allows a single player to play Tic Tac Toe against the computer. Th
 1. Clone the repository or download the source code files.
 2. Ensure you have a C++ compiler installed on your system.
 
-## Usage
-
-### Multiplayer Tic Tac Toe
-1. Compile the `tic_tac_toe.cpp` file:
-    ```sh
-    g++ tic_tac_toe.cpp -o tic_tac_toe
-    ```
-2. Run the compiled program:
-    ```sh
-    ./tic_tac_toe
-    ```
-
-### Tic Tac Toe vs Computer
-1. Compile the `tic_tac_toe_computer.cpp` file:
-    ```sh
-    g++ tic_tac_toe_computer.cpp -o tic_tac_toe_computer
-    ```
-2. Run the compiled program:
-    ```sh
-    ./tic_tac_toe_computer
-    ```
 
 ## Code Overview
 
 ### Multiplayer Tic Tac Toe
-- **File:** `tic_tac_toe.cpp`
+- **File:** `TIC TAC TOE/tic_tac_toe.cpp`
 - **Description:** This file contains the code for the multiplayer Tic Tac Toe game. It includes functions for initializing the grid, taking player inputs, checking for winning conditions, and displaying the grid.
-
+  
+Loading Screen | Game Screen
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/ayushg212/TIC_TAC_TOE_game_in_CPP/assets/57093373/91294172-e4bc-40cb-b86c-d699d85152d7) |  !![alt text](https://github.com/ayushg212/TIC_TAC_TOE_game_in_CPP/assets/57093373/5b14a2eb-7557-4391-bc25-f36290af2f20)
+    
 ### Tic Tac Toe vs Computer
-- **File:** `tic_tac_toe_computer.cpp`
+- **File:** `TIC_TAC_TOE_vs_COMPUTER/tic_tac_toe.cpp`
 - **Description:** This file contains the code for the Tic Tac Toe game where the player competes against the computer. It includes functions for the computer's strategy using the Minimax algorithm, checking for winning conditions, and taking player inputs.
 
 #### Minimax Algorithm
@@ -144,3 +126,6 @@ prob findBestMove(char grd[max_size][max_size], int depth, int player_number)
     else
         return {0, 1, 0};
 }
+
+
+
