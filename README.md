@@ -45,7 +45,7 @@ Game Screen | Game Screen
 
 Loading Screen | Game Screen
 :-------------------------:|:-------------------------:
-![alt text](https://github.com/ayushg212/TIC_TAC_TOE_game_in_CPP/assets/57093373/91294172-e4bc-40cb-b86c-d699d85152d7) |  !![alt text](https://github.com/ayushg212/TIC_TAC_TOE_game_in_CPP/assets/57093373/5b14a2eb-7557-4391-bc25-f36290af2f20)
+![alt text](https://github.com/ayushg212/TIC_TAC_TOE_game_in_CPP/assets/57093373/91294172-e4bc-40cb-b86c-d699d85152d7) |  ![alt text](https://github.com/ayushg212/TIC_TAC_TOE_game_in_CPP/assets/57093373/5b14a2eb-7557-4391-bc25-f36290af2f20)
 
 #### Minimax Algorithm
 The computer uses the Minimax algorithm to determine the best possible move. The core part of the Minimax algorithm is implemented in the following function:
